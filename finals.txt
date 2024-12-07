@@ -1,0 +1,511 @@
+    1  rm ~/.bash_history
+    2  exec bash
+    3  git remote add origin https://github.com/234251215-LACONSAY/234251215_LACONSAY
+    4  cd C:\Windows\System32\234251215_LACONSAY
+    5  cd /mnt/c/Windows/System32/234251215_LACONSAY
+    6  ls
+    7  git add SURVEYFORM
+    8  mkdir -p /mnt/c/Users/razelle\ anne/Projects
+    9  mv /mnt/c/Windows/System32/234251215_LACONSAY /mnt/c/Users/razelle\ anne/Projects/
+   10  cd C:\Windows\System32\234251215_LACONSAY
+   11  cd /mnt/c/Windows/System32/234251215_LACONSAY
+   12  ls
+   13  git add SURVEYFORM
+   14  ls
+   15  git add SURVEYFORM
+   16  git commit "SurveyForm"
+   17  git commit -m "SurveyForm"
+   18  git push origin
+   19  git push origin master
+   20  cd /mnt/c/Windows/System32/234251215_LACONSAY
+   21  ls
+   22  git add SURVEYFORM
+   23  git commit -m "SURVEYFORM"
+   24  git push origin master
+   25  ls -al ~/.ssh
+   26  ssh-keygen -t ed25519 -C "apl1215@students.uc-bcf.edu.ph"
+   27  eval "$(ssh-agent -s)"
+   28  ssh-add ~/.ssh/id_ed25519
+   29  cat ~/.ssh/id_ed25519.pub
+   30  ssh -T git@github.com
+   31  cd /mnt/c/Users/razelle\ anne/Dropbox/PC/Desktop/234251215_LACONSAY
+   32  git clone https://github.com/234251215-LACONSAY/234251215_LACONSAY
+   33  git remote set-url origin git@github.com:234251215-LACONSAY/234251215_LACONSAY.git
+   34  cd /mnt/c/Windows/System32/234251215_LACONSAY
+   35  ls
+   36  git add SURVEYFORM
+   37  git commit -m "SURVEYFORM"
+   38  git push origin master
+   39  git remote -v
+   40  git remote set-url origin git@github.com:234251215-LACONSAY/234251215_LACONSAY.git
+   41  git credential-manager-core erase
+   42  git config --global --unset credential.helper
+   43  git push origin master
+   44  eval "$(ssh-agent -s)"
+   45  ssh-add /root/.ssh/id_ed25519
+   46  cat /root/.ssh/id_ed25519.pub
+   47  ssh -T git@github.com
+   48  cat /root/.ssh/id_ed25519.pun
+   49  cat /root/.ssh/id_ed25519.pub
+   50  ssh-add -l
+   51  ssh-add /root/.ssh/id_ed22519
+   52  ssh-add /root/.ssh/id_ed25519
+   53  ssh -T git@github.com
+   54  git init
+   55  cd /mnt/c/windows/System32/234251215_LACONSAY
+   56  LS
+   57  ls
+   58  git add SURVEYFORM
+   59  ls
+   60  git commit -m "SurveyForm"
+   61  git push origin master
+   62  ls -al ~/.ssh
+   63  ssh-keyscan github.com >> ~/.ssh/known_hosts
+   64  cat ~/.ssh/known_hosts
+   65  nano ~/.ssh/known_hosts
+   66  ssh -T git@github.com
+   67  ssh-add -l
+   68  eval "$(ssh-agent -s)"
+   69  ls ~/.ssh/
+   70  ssh-add ~/.ssh/id_ed25519
+   71  ssh-add -l
+   72  ssh -T git@hub.com
+   73  git init
+   74  ssh -T git@hub.com
+   75  eval "$(ssh-agent -s)"
+   76  ssh-add ~/.ssh/id_ed25519
+   77  cd /mnt/c/windows/System32/234251215_LACONSAY
+   78  git push origin master
+   79  cat ~/.ssh/id_ed25519.pub
+   80  ssh -T git@github.com
+   81  git push origin master
+   82  ls
+   83  git add SURVEYFORM
+   84  git add TRIBUTE
+   85  git commit -m "TRIBUTE"
+   86  git push origin master
+   87  la
+   88  ls
+   89  git add TRIBUTE
+   90  git commit -m "TRIBUTE"
+   91  git push origin master
+   92  cd /mnt/c/Windows/System32/234251215_LACONSAY
+   93  ls
+   94  git add TRIBUTE
+   95  git commit -m "TRIBUTE"
+   96  git push origin master
+   97  git pull origin master
+   98  git push origin master
+   99  git init
+  100  cd /mnt/c/Windows/System32/234251215_LACONSAY
+  101  ls
+  102  git add TRIBUTE
+  103  git commit -m "TRIBUTE"
+  104  git push origin master
+  105  git pull origin master
+  106  git pull --no-rebase origin master
+  107  git pull --rebase origin master
+  108  git add TRIBUTE/styles.css
+  109  git commit -m "GG"
+  110  git push origin master
+  111  git add TRIBUTE/index.html
+  112  ls
+  113  cd TRIBUTE
+  114  LS
+  115  ls
+  116  git add TRIBUTE/index.html
+  117  cd ..
+  118  git add TRIBUTE/index.html
+  119  git commit -m "GG"
+  120  git push origin master
+  121  git init
+  122  cd /mnt/c/Windows/System32/234251215_LACONSAY
+  123  ls
+  124  cd /mnt/c/Windows/System32/234251215_LACONSAY
+  125  ls
+  126  git add SURVEYFORM
+  127  git reset SURVEYFORM
+  128  git add PORTFOLIO
+  129  git commit -m "PORTFOLIO"
+  130  git push origin master
+  131  cd /mnt/c/Windows/System32/234251215_LACONSAY
+  132  ls
+  133  git add PoductLandingPage
+  134  git add ProductLandingPage
+  135  git commit -m "ProductLandingPage"
+  136  git push origin master
+  137  ls
+  138  cd ProductLandingPage
+  139  ls
+  140  git add styles.css
+  141  git -m commit "styles.css"
+  142  git commit -m "styles.css"
+  143  git push origin master
+  144  cd /mnt/c/Windows/System32/234251215_LACONSAY
+  145  ls
+  146  cd ProductLandingPage
+  147  ls
+  148  cd..
+  149  cd ..
+  150  git add SURVEYFORM
+  151  git commit -m "SURVEYFORM"
+  152  git push origin master
+  153  git add TRIBUTE/styles.css
+  154  cd /mnt/c/Windows/System32/234251215_LACONSAY
+  155  ls
+  156  git add SURVEYFORM
+  157  git commit -m "SURVEYFORM"
+  158  git push origin master
+  159  git add SURVEYFORM/styles.css
+  160  git commit -m "gg"
+  161  git push origin master
+  162  git pull origin master
+  163  git pull --no-rebase origin master
+  164  git pull --rebase origin master
+  165  git pull --ff-only origin master
+  166  git add SURVEYFORM/index.html
+  167  git commit -m "Resolved conflict for SURVEYFORM/index.html"
+  168  git push origin master
+  169  ls
+  170  cd PORTFOLIO
+  171  cd..
+  172  cd ..
+  173  cd SURVEYFORM
+  174  ls
+  175  cd ..
+  176  git add SURVEYFORM/styles.css
+  177  git commit -m "gg"
+  178  git clone https://github.com/234251215-LACONSAY/ALTechnicalDocumentation
+  179  ls
+  180  cd /mnt/c/Windows/System32/ALTechnicalDocumentation
+  181  ls
+  182  git add ALTechnicalDocumentation
+  183  ls
+  184  git add ALTechnicalDocumentation
+  185  git status
+  186  git add ALTechnicalDocumenation
+  187  git commit -m "TECHNICALDOCUMENTATION"
+  188  git push origin main
+  189  ls ~/.ssh
+  190  eval "$(ssh-agent -s)" 
+  191  ssh-add ~/.ssh/id_ed25519
+  192  ssh-add -l
+  193  ssh -T git@github.com
+  194  git remote -v
+  195  git remote set-url origin git@github.com:234251215-LACONSAY/ALTechnicalDocumentation.git
+  196  git push origin main
+  197  git clone https://github.com/234251215-LACONSAY/ALPortfolio
+  198  cd /mnt/c/Windows/System32/ALPortfolio
+  199  ls ~/.ssh
+  200  eval "$(ssh-agent -s)" 
+  201  ssh-add ~/.ssh/id_ed25519
+  202  ssh-add -l
+  203  ssh -T git@github.com
+  204  ls
+  205  git add PORTFOLIO
+  206  git commit -m "PORTFOLIO"
+  207  git push origin main
+  208  git remote -v
+  209  git remote add origin git@github.com:234251215-LACONSAY/ALPortfolio.git
+  210  git remote set-url origin git@github.com:234251215-LACONSAY/ALPortfolio.git
+  211  git push origin main
+  212  git clone https://github.com/234251215-LACONSAY/ALProductLandingPage
+  213  ls ~/.ssh
+  214  eval "$(ssh-agent -s)" 
+  215  ssh-add ~/.ssh/id_ed25519
+  216  ssh-add -l
+  217  ssh -T git@github.com
+  218  cd /mnt/c/Windows/System32/ALPortfolio
+  219  ls
+  220  cd ..
+  221  cd /mnt/c/Windows/System32/ALProductLandingPage
+  222  ls
+  223  cd /mnt/c/Windows/System32/ALProductLandingPage
+  224  ls
+  225  git add AProductLandingPage
+  226  git add ALProductLandingPage
+  227  git commit -m "PRODUCTLANDINGPAGE"
+  228  ls ~/.ssh
+  229  eval "$(ssh-agent -s)"
+  230  ssh-add ~/.ssh/id_ed25519
+  231  ssh-add -l
+  232  ssh -T git@github.com
+  233  ls
+  234  git push origin main
+  235  ls 
+  236  ls ~/.ssh
+  237  eval "$(ssh-agent -s)"
+  238  ssh-add ~/.ssh/id_ed25519
+  239  ssh-add -l
+  240  ssh -T git@github.com
+  241  ls
+  242  git add ALProdcutLandingPage
+  243  cd..
+  244  git commit -m "PRODUCT"
+  245  git push origin main
+  246  cd cd /mnt/c/Windows/System32/ALProductLandingPage
+  247  cd /mnt/c/Windows/System32/ALProductLandingPage
+  248  git remote add origin git@github.com:234251215-LACONSAY/ALProductLandingPage.git
+  249  git remote set-url origin git@github.com:234251215-LACONSAY/ALProductLandingPage.git
+  250  git remote -v
+  251  git push origin main
+  252  git clone https://github.com/234251215-LACONSAY/ALTribute
+  253  cd /mnt/c/Windows/System32/ALTribute
+  254  ls
+  255  cd /mnt/c/Windows/System32/ALTribute
+  256  ls
+  257  git add ALTribute
+  258  git commit -m "TRIBUTE"
+  259  git push origin main
+  260  eval "$(ssh-agent -s)"
+  261  ssh-add ~/.ssh/id_ed25519
+  262  cat ~/.ssh/id_ed25519.pub
+  263  ssh-add -l
+  264  ssh -T git@github.com
+  265  git remote add origin git@github.com:234251215-LACONSAY/ALTribute.git
+  266  git remote set-url origin git@github.com:234251215-LACONSAY/ALTribute.git
+  267  git remote -v
+  268  git push origin main
+  269  git clone https://github.com/234251215-LACONSAY/ALSurveyForm
+  270  cd /mnt/c/Windows/System32/ALSurveyForm
+  271  ls
+  272  git add ALSurveyForm
+  273  git commit -m "SURVEYFORM"
+  274  git push origin main
+  275  ls ~/.ssh
+  276  eval "$(ssh-agent -s)"
+  277  ssh-add ~/.ssh/id_ed25519
+  278  ssh-add -l
+  279  ssh -T git@github.com
+  280  git remote add origin git@github.com 234251215-LACONSAY/ALSurveyForm
+  281  git remote add origin git@github.com:234251215-LACONSAY/ALSurveyForm
+  282  git remote set-url origin git@github.com:234251215-LACONSAY/ALSurveyForm
+  283  git remote -v
+  284  git push origin main
+  285  cd Desktop
+  286  cd ..
+  287  cd..
+  288  cd ..
+  289  cd Desktop
+  290  clear
+  291  ls
+  292  git add git_practical_exam
+  293  git commit -m "."
+  294  git push origin main
+  295  git status
+  296  git branch
+  297  git checkout main
+  298  git add git_practical_exam/*
+  299  git add git_practical_exam
+  300  git commit -m "Add git_practical_exam files"
+  301  git push origin main
+  302  ls -la git_practical_exam
+  303  ls -la /mnt/c/WINDOWS/system32/git_practical_exam
+  304  cat .gitignore
+  305  cd git_practical_exam
+  306  ls
+  307  git add git_practical_exam
+  308  git commit -m "."
+  309  git status
+  310  ls git_practical_exam
+  311  git commit -m "Your commit message"
+  312  git log --oneline
+  313  git ls-files -o --exclude-standard
+  314  echo "Sample content" > git_practical_exam/sample.txt
+  315  git status
+  316  git clean -fd
+  317  clear
+  318  mkdir git_practical_exam
+  319  cd git_practical_exam
+  320  git init
+  321  git remote add originhttps://github.com/234251215-LACONSAY/git_practical_exam
+  322  git remote -v
+  323  echo Name: Adrian Laconsay > student_info.txt
+  324  echo "Exam Date: December 7 2024 >> student_info.txt
+  325  git add student_info.txt
+  326  git commit -m "Initial commit: Added student_info.txt"
+  327  echo "Favorite Git Command: [Your Favorite Git Command]" >> student_info.txt
+  328  git add student_info.txt
+  329  git commit -m "Updated student_info.txt with favorite Git command"
+  330  git checkout -b feature-bio
+  331  echo "About Me:" > bio.txt
+  332  echo "I am learning Git for version control." >> bio.txt
+  333  git add bio.txt
+  334  git commit -m "Added bio.txt with about me content"
+  335  git checkout main
+  336  git merge feature-bio
+  337  git pull origin main
+  338  mkdir git_practical_exam
+  339  cd git_practical_exam
+  340  git init
+  341  git remote add origin https://github.com/234251215-LACONSAY/git_practical_exam.git
+  342  git remote -v
+  343  echo "Name: Adrian Laconsay" > student_info.txt
+  344  echo "Exam Date: December 7 2024" >> student_info.txt
+  345  git add student_info.txt
+  346  git commit -m "Initial commit: Added student_info.txt"
+  347  echo "Favorite Git Command: [Your Favorite Git Command]" >> student_info.txt
+  348  git add student_info.txt
+  349  git commit -m "Updated student_info.txt with favorite Git command"
+  350  git checkout -b feature-bio
+  351  echo "About Me:" > bio.txt
+  352  echo "I am learning Git for version control." >> bio.txt
+  353  git commit -m "Added bio.txt with about me content"
+  354  git checkout main
+  355  git add bio.txt
+  356  git commit -m "Added bio.txt with about me content"
+  357  git checkout master
+  358  git branch -m master main
+  359  git checkout main
+  360  git merge feature-bio
+  361  git pull origin main
+  362  mkdir git_practical_exam
+  363  cd git_practical_exam
+  364  git init
+  365  git remote add origin https://github.com/234251215-LACONSAY/git_practical_exam.git
+  366  git remote -v
+  367  echo "Name: Adrian Laconsay  
+  368  Exam Date: $(date +"%Y-%m-%d")" > student_info.txt
+  369  git add student_info.txt
+  370  git commit -m "Initial commit: Added student_info.txt"
+  371  echo "Favorite Git Command: git commit" >> student_info.txt
+  372  git add student_info.txt
+  373  git commit -m "Updated student_info.txt with favorite Git command"
+  374  git branch feature-bio
+  375  git checkout feature-bio
+  376  echo "About Me:  
+  377  I am learning Git for version control." > bio.txt
+  378  git add bio.txt
+  379  git commit -m "Added bio.txt in feature-bio branch"
+  380  git checkout main
+  381  git branch
+  382  git checkout master
+  383  git merge feature-bio
+  384  git pull origin main
+  385  git pull origin master
+  386  doskey /history > finals.txt
+  387  mkdir git_practical_exam
+  388  cd git_practical_exam
+  389  git init
+  390  git remote add origin https://github.com/234251215-LACONSAY/git_practical_exam.git
+  391  git remote -v
+  392  echo -e "Name: [Your Name]\nExam Date: [Current Date]" > student_info.txt
+  393  git add student_info.txt
+  394  git commit -m "Initial commit: Added student_info.txt"
+  395  echo "Favorite Git Command: [Your Favorite Git Command]" >> student_info.txt
+  396  git add student_info.txt
+  397  git commit -m "Updated student_info.txt with favorite Git command"
+  398  git checkout -b feature-bio
+  399  echo -e "About Me:\nI am learning Git for version control." > bio.txt
+  400  git add bio.txt
+  401  git commit -m "Added bio.txt in feature-bio branch"
+  402  git checkout main
+  403  mkdir git_practical_exam
+  404  cd git_practical_exam
+  405  git init
+  406  git remote add origin https://github.com/234251215-LACONSAY/git_practical_exam.git
+  407  git remote -v
+  408  echo -e "Name: [Adrian Laconsay]\nExam Date: [07/12/2024]" > student_info.txt
+  409  git add student_info.txt
+  410  git commit -m "Initial commit: Added student_info.txt"
+  411  echo "Favorite Git Command: [Your Favorite Git Command]" >> student_info.txt
+  412  git add student_info.txt
+  413  git commit -m "Updated student_info.txt with favorite Git command"
+  414  git checkout -b feature-bio
+  415  echo -e "About Me:\nI am learning Git for version control." > bio.txt
+  416  git add bio.txt
+  417  git commit -m "Added bio.txt in feature-bio branch"
+  418  git checkout main
+  419  git branch -m master main
+  420  git checkout main
+  421  git merge feature-bio
+  422  git pull origin main
+  423  git ls-remote --heads origin
+  424  git pull origin master
+  425  git push -u origin main
+  426  git config --global credential.helper manager-core
+  427  git push -u origin main
+  428  mkdir git_practical_exam
+  429  cd git_practical_exam
+  430  git init
+  431  git remote add origin https://github.com/234251215-LACONSAY/git_practical_exam.git
+  432  git remote -v
+  433  echo "Name: Adrian Laconsay" > student_info.txt
+  434  echo "Exam Date: $(date)" >> student_info.txt
+  435  git add student_info.txt
+  436  git commit -m "Initial commit: Added student_info.txt"
+  437  echo "Favorite Git Command: [Your Favorite Git Command]" >> student_info.txt
+  438  git add student_info.txt
+  439  git commit -m "Updated student_info.txt with favorite Git command"
+  440  git checkout -b feature-bio
+  441  echo "About Me: I am learning Git for version control." > bio.txt
+  442  git add bio.txt
+  443  git commit -m "Added bio.txt in feature-bio branch"
+  444  git checkout main
+  445  git branch
+  446  git checkout master
+  447  git branch -m master main
+  448  git push -u origin main
+  449  git push origin --delete master
+  450  mkdir git_practical_exam
+  451  cd git_practical_exam
+  452  git init
+  453  git remote add origin https://github.com/234251215-LACONSAY/git_practical_exam.git
+  454  git remote -v
+  455  echo "Name: Adrian Laconsay" > student_info.txt
+  456  echo "Exam Date: December 7 2024" >> student_info.txt
+  457  git add student_info.txt
+  458  git commit -m "Initial commit: Added student_info.txt"
+  459  echo "Favorite Git Command: [Your Favorite Git Command]" >> student_info.txt
+  460  git add student_info.txt
+  461  git commit -m "Updated student_info.txt with favorite Git command"
+  462  git checkout -b feature-bio
+  463  echo "About Me: I am learning Git for version control." > bio.txt
+  464  git add bio.txt
+  465  git commit -m "Added bio.txt in feature-bio branch"
+  466  git checkout main
+  467  git branch
+  468  git checkout -b main
+  469  git push -u origin main
+  470  ssh-keygen -t ed25519 -C "your_email@example.com"
+  471  cat ~/.ssh/id_ed25519.pub
+  472  mkdir git_practical_exam
+  473  cd git_practical_exam
+  474  git init
+  475  git remote https://github.com/234251215-LACONSAY/git_practical_exam
+  476  git remote origin git remote add origin https://github.com/your-username/git_practical_exam.git
+  477  git remote -v
+  478  echo "Name: Your Name" > student_info.txt
+  479  echo "Exam Date: $(date)" >> student_info.txt
+  480  git add student_info.txt
+  481  git commit -m "Initial commit: Added student_info.txt"
+  482  echo "Favorite Git Command: git commit" >> student_info.txt
+  483  git add student_info.txt
+  484  git commit -m "Updated student_info.txt with favorite Git command"
+  485  git checkout -b feature-bio
+  486  echo "About Me: I am learning Git for version control." > bio.txt
+  487  git add bio.txt
+  488  git commit -m "Added bio.txt with about me info"
+  489  git checkout main
+  490  mkdir git_practical_exam
+  491  cd git_practical_exam
+  492  git init
+  493  git config --global init.defaultBranch main
+  494  git branch -m master main
+  495  echo "Name: Adrian Laconsay" > student_info.txt
+  496  echo "Exam Date: [Current Date]" >> student_info.txt
+  497  git add student_info.txt
+  498  git commit -m "Initial commit: Added student_info.txt"
+  499  echo "Favorite Git Command: [Your Favorite Git Command]" >> student_info.txt
+  500  git add student_info.txt
+  501  git commit -m "Updated student_info.txt with favorite Git command"
+  502  git checkout -b feature-bio
+  503  echo "About Me:" > bio.txt
+  504  echo "I am learning Git for version control." >> bio.txt
+  505  git add bio.txt
+  506  git commit -m "Added bio.txt in feature-bio branch"
+  507  git checkout main
+  508  git merge feature-bio
+  509  git pull origin main
+  510  doskey /history > finals.txt
+  511  history > finals.txt
